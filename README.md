@@ -1,0 +1,2 @@
+# symfony-plugin
+Symfony Interface
